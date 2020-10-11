@@ -1,0 +1,21 @@
+{
+  "name": "2-request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "Output client header parameters into a JSON object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freecodecamp",
+    "node",
+    "header",
+    "parser",
+    "microservice"
+  ],
+  "author": "David Quintero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
